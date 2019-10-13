@@ -5,7 +5,6 @@ const FromBtn = document.getElementById('submit');
 
 
 let addToy = false;
-let liked;
 
 // YOUR CODE HERE
 
