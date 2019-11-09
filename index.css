@@ -2,6 +2,10 @@ body {
   margin: 0;
   font-family: monospace;
 }
+img{
+  width:100%;
+  height: auto;
+}
 
 #toy-header {
   display: flex;
